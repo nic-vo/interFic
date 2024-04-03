@@ -1,0 +1,15 @@
+# yarn
+.yarn/*
+pnp.js
+.pnp.*
+yarn.lock
+
+# editor
+.vscode/*
+
+# next
+.next/*
+next-env.d.ts
+
+# utilities
+.prettierrc
